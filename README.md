@@ -4,4 +4,4 @@
 
 *Courses*
 
-- [https://f-edwards.github.io/intermediate_stats/](Intermediate statistics, Spring 2019)
+- [Intermediate statistics, Spring 2019](https://f-edwards.github.io/intermediate_stats/)
