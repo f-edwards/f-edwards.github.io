@@ -15,7 +15,8 @@ The second provides detailed analyses of the prevalence of police-involved killi
 
 ## Publications
 
-Test: 
+Risk of being killed by police use of force in the United States by age, race–ethnicity, and sex. Frank Edwards, Hedwig Lee, Michael Esposito
+Proceedings of the National Academy of Sciences Aug 2019, 116 (34) 16793-16798; DOI: 10.1073/pnas.1821204116
 
-Testing   <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1038/nature.2012.9872"></div>
+<div data-badge-popover="right" data-badge-type="4" data-doi="10.1073/pnas.1821204116" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
