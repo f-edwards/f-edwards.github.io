@@ -24,7 +24,7 @@ github_username:  f-edwards
 
 # Build settings
 markdown: kramdown
-theme: minima
+remote_theme: alshedivat/al-folio
 plugins:
   - jekyll-feed
 
