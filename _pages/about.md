@@ -1,50 +1,53 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
+title: "Frank Edwards"
+excerpt: "Assistant Professor of Criminal Justice, Rutgers University - Newark"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+<!-- For altmetric and dimensions badges -->
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+<!-- begin intro -->
+I am a sociologist broadly interested in social control, the welfare state, race, and applied statistics. My work explores the causes and consequences of the social distribution of state violence through two projects.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+The first draws attention to child protection systems as key sites of family disruption. This work shows that American child protection systems are tightly intertwined with carceral and welfare policy systems, and that race and colonization play a central role in explaining the spatial and social distribution of family separation.
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+The second provides detailed analyses of the prevalence of police-involved killings in the US. This project uses novel data to provide estimates of mortality risk by race, sex, and place. It also evaluates how institutions and politics affect the prevalence of police violence.
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+## Selected Publications
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+*Risk of Being Killed by Police Use of Force in the United States by Age, Race–Ethnicity, and Sex.* Proceedings of the National Academy of Sciences, 2019. 
 
-**Markdown generator**
+>African American men and women, American Indian/Alaska Native men and women, and Latino men face higher lifetime risk of being killed by police than do their white peers. Latina women and Asian/Pacific Islander men and women face lower risk of being killed by police than do their white peers. For young men of color, police use of force is among the leading causes of death.
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+<span data-badge-popover="right" data-badge-type="2" data-doi="10.1073/pnas.1821204116" class="altmetric-embed" style ="display: inline-block"></span> 
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+*The Cumulative Prevalence of Termination of Parental Rights for U.S. Children, 2000–2016.* Child Maltreatment, 2019
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+>About 1 in 100 U.S. children will experience the termination of parental rights by age 18. Risks are highest for Native American and African American children. Nearly 3.0% of Native American children and around 1.5% of African American children will have both parents' rights terminated thorough the child welfare system. 
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+<span data-badge-popover="right" data-badge-type="2" data-doi="10.1177/1077559519848499" class="altmetric-embed" style ="display: inline-block"></span>  
+
+*Family Surveillance: Police and the Reporting of Child Abuse and Neglect.* RSF: The Russell Sage Foundation Journal of the Social Sciences, 2019
+
+>Police are responsible for producing about one-fifth of all reports of child abuse and neglect investigated by local child welfare agencies, and low-level interactions with police often result in the initiation of a child welfare investigation. The spatial and social distribution of policing affects which children and families experience unnecessary child protection interventions and which children who are victims of maltreatment go unnoticed.
+
+<span data-badge-popover="right" data-badge-type="2" data-doi="10.7758/RSF.2019.5.1.03
+" class="altmetric-embed" style ="display: inline-block"></span>  
+
+*Risk of Police-Involved Death by Race/Ethnicity and Place, United States, 2012–2018.* American Journal of Public Health, 2018 
+
+> We used novel data on police-involved fatalities and Bayesian models to estimate mortality risk for Black, Latino, and White men for all US counties by Census division and metropolitan area type. Police kill, on average, 2.8 men per day. Police were responsible for about 8% of all homicides with adult male victims between 2012 and 2018. Black men’s mortality risk is between 1.9 and 2.4 deaths per 100 000 per year, Latino risk is between 0.8 and 1.2, and White risk is between 0.6 and 0.7.
+
+<span data-badge-popover="right" data-badge-type="2" data-doi="10.2105/AJPH.2018.304559" class="altmetric-embed" style ="display: inline-block"></span>  
+
+Edwards, Frank. 2016. “Saving Children, Controlling Families: Punishment, Redistribution, and Child Protection.” American Sociological Review 81(3):575–95. 
+
+>State efforts at child protection are structured by the policy regimes in which they are enmeshed. Children are separated from their families and placed into foster care far more frequently in states with extensive and punitive criminal justice systems than in states with broad and generous welfare programs. However, large welfare bureaucracies interact with welfare program enrollment to create opportunities for the surveillance of families, suggesting that extensive and administratively complex welfare states engage in “soft” social control through the surveillance and regulation of family behavior. Policy regimes influence the interaction between families and the state through their proximate effects on family structure and well-being and through institutional effects that delimit the routines and scripts through which policymakers and street-level bureaucrats intervene to protect children.
+
+<span data-badge-popover="right" data-badge-type="2" data-doi="10.1177/0003122416638652" class="altmetric-embed" style ="display: inline-block"></span>  
+
