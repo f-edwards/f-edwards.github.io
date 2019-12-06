@@ -7,11 +7,11 @@ author_profile: true
 
 Edwards, Frank R., Hedwig Lee, and Michael Esposito. 2019. "Risk of being killed by police use of force in the United States by age, race–ethnicity, and sex". *Proceedings of the National Academy of Sciences*. 116 (34):16793-16798. [html](https://www.pnas.org/content/116/34/16793)
 
-Fernandes, April, Frank Edwards, Michele Cadigan, and Alexes Harris. 2019. "Monetary Sanctions: A Review of Revenue Generation, Legal Challenges, and Reform". *Annual Review of Law and Social Science* 15(1):397-413. (https://www.annualreviews.org/doi/abs/10.1146/annurev-lawsocsci-101518-042816}{html})
+Fernandes, April, Frank Edwards, Michele Cadigan, and Alexes Harris. 2019. "Monetary Sanctions: A Review of Revenue Generation, Legal Challenges, and Reform". *Annual Review of Law and Social Science* 15(1):397-413. [html](https://www.annualreviews.org/doi/abs/10.1146/annurev-lawsocsci-101518-042816)
 
 Wildeman, Christopher, Frank R. Edwards, and Sara Wakefield. 2019. "The Cumulative Prevalence of Termination of Parental Rights for U.S. Children, 2000-2016". *Child Maltreatment* [html](https://doi.org/10.1177/1077559519848499)
 
-Edwards, Frank R. 2019. "Family Surveillance: Police and the Reporting of Child Abuse and Neglect." *The Russell Sage Foundation Journal of The Social Sciences* 5(1):50-70. [html](https://www.rsfjournal.org/content/5/1/50})
+Edwards, Frank R. 2019. "Family Surveillance: Police and the Reporting of Child Abuse and Neglect." *The Russell Sage Foundation Journal of The Social Sciences* 5(1):50-70. [html](https://www.rsfjournal.org/content/5/1/50)
 
 Edwards, Frank R., Michael Esposito, and Hedwig Lee. 2018. "Risk of Police-Involved Death by Race/Ethnicity and Place, United States, 2012-2018". *The American Journal of Public Health* 108(9):1241-1248. [html](https://ajph.aphapublications.org/doi/10.2105/AJPH.2018.304559)
 
