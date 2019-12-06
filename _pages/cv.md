@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-[PDF](files/edwards-cv.pdf), updated 11/2019
+[PDF](~/files/edwards-cv.pdf), updated 11/2019
