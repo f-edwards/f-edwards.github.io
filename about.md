@@ -1,7 +1,0 @@
----
-layout: page
-title: About
-permalink: /about/
----
-
-I am an Assistant Professor in the School of Criminal Justice at Rutgers University – Newark and a fellow at the Bronfenbrenner Center for Translational Research at Cornell University affiliated with the National Data Archive on Child Abuse and Neglect. I received my Ph.D. in Sociology from the University of Washington in 2017. My work has appeared or is forthcoming in Proceedings of the National Academy of Sciences, American Sociological Review, The American Journal of Public Health, Children and Youth Services Review,  Annual Review of Criminology, The Russell Sage Foundation Journal of the Social Sciences and other outlets.
