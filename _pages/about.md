@@ -25,7 +25,7 @@ The second provides detailed analyses of the prevalence of police-involved killi
 
 >African American men and women, American Indian/Alaska Native men and women, and Latino men face higher lifetime risk of being killed by police than do their white peers. Latina women and Asian/Pacific Islander men and women face lower risk of being killed by police than do their white peers. For young men of color, police use of force is among the leading causes of death.
 
-*The Cumulative Prevalence of Termination of Parental Rights for U.S. Children, 2000–2016.* Child Maltreatment, 2019. [html](https://doi.org/10.1177/1077559519848499).  
+*The Cumulative Prevalence of Termination of Parental Rights for U.S. Children, 2000–2016.* Child Maltreatment, 2019. [html](https://doi.org/10.1177/1077559519848499). 
 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1177/1077559519848499" class="altmetric-embed" style ="display: inline-block"></span>  
 
 >About 1 in 100 U.S. children will experience the termination of parental rights by age 18. Risks are highest for Native American and African American children. Nearly 3.0% of Native American children and around 1.5% of African American children will have both parents' rights terminated thorough the child welfare system. 
