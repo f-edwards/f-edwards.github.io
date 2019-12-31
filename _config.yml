@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : ""
-title_separator          : "-"
+title_separator          : ""
 name                     : &name "Frank Edwards"
 description              : &description "Assistant Professor of Criminal Justice, Rutgers University - Newark"
 url                      : https://f-edwards.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
