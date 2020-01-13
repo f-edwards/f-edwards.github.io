@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Frank Edwards"
+title: ""
 excerpt: "Assistant Professor of Criminal Justice, Rutgers University - Newark"
 author_profile: true
 redirect_from: 
