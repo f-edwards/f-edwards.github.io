@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Frank Edwards"
 title_separator          : ""
-# name                     : &name ""
+name                     : &name "Frank Edwards"
 description              : &description "Assistant Professor of Criminal Justice, Rutgers University - Newark"
 url                      : https://f-edwards.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

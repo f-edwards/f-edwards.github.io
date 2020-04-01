@@ -20,6 +20,9 @@ The second provides detailed analyses of the prevalence of police-involved killi
 
 ## Selected Publications
 
+*Cumulative Prevalence of Confirmed Maltreatment and Foster Care Placement for US Children by Race/Ethnicity, 2011–2016.* American Journal of Public Health. [html](https://ajph.aphapublications.org/doi/10.2105/AJPH.2019.305554). 
+<span data-badge-popover="right" data-badge-type="2" data-doi="10.2105/AJPH.2019.305554" class="altmetric-embed" style ="display: inline-block"></span> 
+
 *Risk of Being Killed by Police Use of Force in the United States by Age, Race–Ethnicity, and Sex.* Proceedings of the National Academy of Sciences, 2019. [pdf](https://osf.io/preprints/socarxiv/kw9cu/). 
 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1073/pnas.1821204116" class="altmetric-embed" style ="display: inline-block"></span> 
 
