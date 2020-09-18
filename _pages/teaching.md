@@ -5,12 +5,12 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Introductory Statistics (PhD)
+## Introductory Statistics (Graduate)
 School of Criminal Justice, Rutgers University - Newark 
 
-[Fall 2019 course page](https://f-edwards.github.io/intro_stats/). 
+[Fall 2020 course page](https://f-edwards.github.io/intro_stats/). 
 
-## Intermediate Statistics (PhD)
+## Intermediate Statistics; Bayesian Statistics (Graduate)
 School of Criminal Justice, Rutgers University - Newark
 
 [Spring 2019 course page](https://f-edwards.github.io/intermediate_stats/)
