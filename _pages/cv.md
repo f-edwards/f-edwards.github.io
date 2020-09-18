@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-[PDF](https://f-edwards.github.io/files/edwards-cv.pdf), updated 3/2020
+[PDF](https://f-edwards.github.io/files/edwards-cv.pdf), updated 9/2020
