@@ -22,7 +22,11 @@ My research has been published in *Proceedings of the National Academy of Scienc
 
 ## Selected Publications
 
-*Cumulative Prevalence of Confirmed Maltreatment and Foster Care Placement for US Children by Race/Ethnicity, 2011–2016.* American Journal of Public Health. [html](https://ajph.aphapublications.org/doi/10.2105/AJPH.2019.305554). 
+*Contact with Child Protective Services is pervasive but unequally distributed by race and ethnicity in large US counties.* Proceedings of the National Academy of Sciences, 2021. [html](https://www.pnas.org/content/118/30/e2106272118). <span data-badge-popover="right" data-badge-type="2" data-doi="10.1073/pnas.2106272118" class="altmetric-embed" style ="display: inline-block"></span>
+
+> This article provides county-level estimates of the cumulative prevalence of four levels of Child Protective Services (CPS) contact using administrative data from the 20 most populous counties in the United States. These results show that early CPS interventions are ubiquitous in large counties but with marked variation in how CPS systems respond to these investigations. 
+
+*Cumulative Prevalence of Confirmed Maltreatment and Foster Care Placement for US Children by Race/Ethnicity, 2011–2016.* American Journal of Public Health, 2020. [html](https://ajph.aphapublications.org/doi/10.2105/AJPH.2019.305554). 
 <span data-badge-popover="right" data-badge-type="2" data-doi="10.2105/AJPH.2019.305554" class="altmetric-embed" style ="display: inline-block"></span> 
 
 > Confirmed child maltreatment and foster care placement continued to be experienced at high rates in the United States in 2012 through 2016, with especially high risks for American Indian/Alaska Native children. Rates of foster care have increased, whereas rates of confirmed maltreatment have remained stable.
