@@ -12,13 +12,7 @@ redirect_from:
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
 <!-- begin intro -->
-I am a sociologist broadly interested in social control, the welfare state, racism, and applied statistics. My work explores the causes and consequences of the social distribution of state violence through two projects.
-
-The first draws attention to child protection systems as key sites of family disruption. This work shows that American child protection systems are tightly intertwined with carceral and welfare policy systems, and that racism and settler colonialism play a central role in explaining the spatial and social distribution of family separation.
-
-The second provides detailed analyses of the prevalence of police-involved killings in the US. This project uses novel data and Bayesian methods to provide estimates of mortality risk by race, sex, and place. It also evaluates how institutions and politics affect the prevalence of police violence.
-
-My research has been published in *Proceedings of the National Academy of Sciences*, *American Sociological Review*, *American Journal of Public Health*, and other outlets. My research has been covered in *The New York Times*, *The Washington Post*, *The Los Angeles Times*, *The PBS News Hour*, and other outlets.
+Frank Edwards is a sociologist broadly interested in social control, the welfare state, racism, and applied statistics. His research the causes and consequences of the social distribution of state violence. One set of projects draws attention to child protection systems as key sites of state violence and racial stratification. This work shows that American child protection systems are tightly intertwined with carceral and welfare policy systems, and that racism and settler colonialism play a central role in explaining the spatial and social distribution of family separation. A second set of projects uses novel data and methods to provide detailed statistical analyses of the prevalence and distribution of police violence in the US. His research has been published in outlets including *Proceedings of the National Academy of Sciences*, *American Sociological Review*, and the *American Journal of Public Health*. His research has been covered by *The New York Times*, *The Washington Post*, *The Los Angeles Times*, *The PBS News Hour*, and other outlets. He received his Ph.D. in Sociology from the University of Washington in 2017, and is an Assistant Professor of Criminal Justice at Rutgers University - Newark.
 
 ## Selected Publications
 
