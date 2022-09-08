@@ -1,0 +1,6 @@
+PWD /Users/frankedwards/Dropbox/f-edwards.github.io/_pages
+INPUT /Users/frankedwards/Library/TinyTeX/texmf.cnf
+INPUT /Users/frankedwards/Library/TinyTeX/texmf-dist/web2c/texmf.cnf
+INPUT /Users/frankedwards/Library/TinyTeX/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT /Users/frankedwards/Dropbox/f-edwards.github.io/_pages/about.md
+OUTPUT /Users/frankedwards/Dropbox/f-edwards.github.io/_pages/about.log
