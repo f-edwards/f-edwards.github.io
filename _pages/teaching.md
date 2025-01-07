@@ -13,4 +13,4 @@ School of Criminal Justice, Rutgers University - Newark
 ## Intermediate Statistics; (Graduate)
 School of Criminal Justice, Rutgers University - Newark
 
-[Spring 2024 course page](https://f-edwards.github.io/intermediate_stats/)
+[Spring 2025 course page](https://f-edwards.github.io/intermediate_stats/)
