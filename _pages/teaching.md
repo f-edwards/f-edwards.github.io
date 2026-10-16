@@ -15,7 +15,7 @@ School of Criminal Justice, Rutgers University - Newark
 
 [Course website](https://f-edwards.github.io/intermediate_stats/)
 
-## Advancded Statistics - Bayesian; (Graduate)
+## Advanced Statistics - Bayesian; (Graduate)
 School of Criminal Justice, Rutgers University - Newark
 
 [Couse website](https://f-edwards.github.io/advanced_stats_bayes/)
